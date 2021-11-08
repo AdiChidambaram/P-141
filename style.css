@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+   text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 5px dashed red;
+}
+
+.footer{
+    bottom: 0;
+    position: fixed;
+    background-color: dodgerblue;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    color: ghostwhite;
+}
+
+canvas{
+    border: 10px dashed blue;
+}
